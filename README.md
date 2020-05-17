@@ -6,11 +6,11 @@ Talisman Mini Cheat
 * Put 'skills.txt' and 'cheatmenu.txt' And 'ui' Folder Into Talisman Main Folder
 * Goto 'ui' Folder > Open 'ui.xml' With Text Editor (Recommend: Notepad++)
 * Search For Following Pattern
-> <File Name="<FileName>.xml" />
+ `<File Name="<FileName>.xml" />`
 * For Example:
-> <File Name="lay_login.xml" />
+ `<File Name="lay_login.xml" />`
 * After That Create New Line And Type This
-> <File Name="frm_cheatmenu.xml"/>
+ `<File Name="frm_cheatmenu.xml"/>`
 * Close And Save
 * Right-Click 'ui.xml' & Open Properties
 * Check Read-only To Prevent Launcher From Updating It
