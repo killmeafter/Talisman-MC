@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?><UiRichText> 
+	<Line>		<Items> 			<br/>				<Item type="TEXT" font="title" fontsize="17" text="Auction" hlink="String:auction:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Identify" font="title" fontsize="17" color="#ffff7733" hlink="String:identify:NA?NA=0" />			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Combine" font="title" fontsize="17" color="#ffff7733" hlink="String:smithing:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Soul Infusion" font="title" fontsize="17" color="#ffff7733" hlink="String:enchant:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Mail" font="title" fontsize="17" color="#ffff7733" hlink="String:mail:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Guild War" font="title" fontsize="17" color="#ffff7733" hlink="String:guildwar:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Set Up guild" font="title" fontsize="17" color="#ffff7733" hlink="String:guild:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Guild Warehouse" font="title" fontsize="17" color="#ffff7733" hlink="String:guildbank:NA?NA=0" /> 			<br/>		</Items> 	</Line>			<Line>		<Items> 			<br/>				<Item type="TEXT" text="Leave Guild Domain" font="title" fontsize="17" color="#ffff7733" hlink="String:guildterrleave:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Get Guild Token" font="title" fontsize="17" color="#ffff7733" hlink="String:guildterrgetreturn:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="War" font="title" fontsize="17" color="#ffff7733" hlink="String:war:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Register Item" font="title" fontsize="17" color="#ffff7733" hlink="String:registerequip:NA?NA=0" /> 			<br/>		</Items> 	</Line>	<Line>		<Items> 			<br/>				<Item type="TEXT" text="RTL" font="title" fontsize="17" color="#ffff7733" hlink="String:rtl:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Graduate" font="title" fontsize="17" color="#ffff7733" hlink="String:graduate:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Set WH Password" font="title" fontsize="17" color="#ffff7733" hlink="String:bank:pwd?pwd=set" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Smith8" font="title" fontsize="17" color="#ffff7733" hlink="String:local:smith8?NA=0" /> 			<br/>		</Items> 	</Line>			<Line>		<Items> 			<br/>				<Item type="TEXT" text="Signature" font="title" fontsize="17" color="#ffff7733" hlink="String:local:sign?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Unsignature" font="title" fontsize="17" color="#ffff7733" hlink="String:local:unsign?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Bank" font="title" fontsize="17" color="#ffff7733" hlink="String:bank:show" /> 			<br/>		</Items> 	</Line>	
+	<Line>
+		<Items> 
+		</Items> 
+	</Line>
+		<Line>
+		<Items> 
+		</Items> 
+	</Line>
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 1" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=1" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 1" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=1" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 2" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=2" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 2" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=2" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 3" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=3" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 3" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=3" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 4" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=4" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 4" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=4" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 5" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=5" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 5" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=5" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 6" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=6" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 6" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=6" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 7" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=7" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 7" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=7" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 8" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=8" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 8" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=8" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 9" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=9" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 9" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=9" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 10" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=10" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 10" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=10" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 11" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=11" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 11" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=11" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 12" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=12" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 12" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=12" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 13" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=13" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 13" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=13" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 14" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=14" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 14" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=14" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 15" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=15" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 15" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=15" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 16" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=16" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 16" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=16" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 17" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=17" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 17" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=17" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 18" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=18" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 18" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=18" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 19" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=19" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 19" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=19" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 20" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=20" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 20" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=20" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 21" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=21" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 21" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=21" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 22" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=22" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 22" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=22" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 23" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=23" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 23" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=23" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 24" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=24" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 24" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=24" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 25" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=25" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 25" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=25" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 26" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=26" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 26" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=26" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 27" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=27" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 27" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=27" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 28" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=28" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 28" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=28" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 29" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=29" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 29" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=29" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 30" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=30" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 30" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=30" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 31" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=31" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 31" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=31" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 32" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=32" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 32" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=32" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 33" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=33" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 33" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=33" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 34" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=34" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 34" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=34" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<Item type="TEXT" text="Enter Cave 35" hlink="String:RequestIntoEctype:$L:talk_leave_dv$?id=35" underlined="true" color="#ff00aadd" />
+			<Item type="TEXT" text="Leave Cave 35" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=35" underlined="true" color="#ff00aadd" />
+		</Items> 
+	</Line>
+	</UiRichText>

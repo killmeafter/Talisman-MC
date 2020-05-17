@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ui>
+	<Script file="frm_cheatmenu.lua">Script</Script>
+	<Layer Name="layWorld" Show="true">
+		<Form DragIn="true" Inherit="" Location="200,170,500,400" MouseEvent="true" Name="frmCheatMenu" Show="true">
+			<Anchors />
+			<TitleBarButton Location="0,0,500,60"/>
+			
+			<Label Inherit="bg1" Location="10,20,500,400" Name="bgBase" Show="true"/>
+			<Label Inherit="TemplateNormalTitle" Location="3,1,505,50" Name="21483" Show="true"/>
+			<Label Inherit="" Location="150,8,294,48" Name="lbName" Show="true" Text="Cheat Menu By Ghost V0.9" TextFont="$L:1$" TextSize="$L:3$"/>
+			
+			<Button Inherit="" Location="150,300,36,36" Name="btnTalent" Show="true">
+				<BackgroundImage File="" Source="" />
+				<HighlightImage Blend="true" File="cgz_design" Source="103,417,36,36" />
+				<Hint />
+				<Scripts>
+					<OnHint>layWorld_frmSkillEx_frmTrumps_labSkills_btnSkill_OnHint(self)</OnHint>
+					<OnLClick>layWorld_frmSkillEx_frmTrumps_labSkills_btnSkill_OnLClick(self)</OnLClick>
+				</Scripts>
+			</Button>
+			
+			<ListBox AutoScrollV="true" DrawHeader="true" Inherit="" Location="33,83,300,200" Name="lstSkills" Show="true">
+				<Scripts>
+					<OnLoad>layWorld_frMakeEx_lstSkills_OnLoad(self)</OnLoad>
+					<OnSelect>layWorld_frMakeEx_lstSkills_OnSelect(self)</OnSelect>
+				</Scripts>
+			</ListBox>
+			
+			<EditBox AutoScrollV="true" EnableInput="false" Inherit="" Location="33,300,110,100" MultiLine="true" Name="edtLink" Show="true" WordWrap="true">
+				<Scripts>
+					<OnHyperLink>layWorld_frmDialogerEx_edtdialogerTest_OnHyperLink(self, hypertype, hyperlink);</OnHyperLink>
+				</Scripts>
+			</EditBox>
+			
+			
+			<EditBox AutoScrollV="true" EnableInput="false" Inherit="" Location="340,83,170,300" MultiLine="true" Name="edtLinkCheats" Show="true" WordWrap="true">
+				<Scripts>
+					<OnLoad>LoadCheats(self);</OnLoad>
+					<OnHyperLink>layWorld_frmDialogerEx_edtdialogerTest_OnHyperLink(self, hypertype, hyperlink);</OnHyperLink>
+				</Scripts>
+			</EditBox>
+		</Form>
+	</Layer>
+</Ui>

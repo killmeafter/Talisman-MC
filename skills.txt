@@ -1,0 +1,1192 @@
+320
+Mercy Flow
+1336
+Yae Priest Attack
+1337
+Dark Ranger Attack
+1338
+White Bone Demon Attack
+1339
+White Bone Demon Skill01
+1
+fist 
+2
+collect
+3
+open
+4
+pet catch
+11
+Collect Herb
+12
+Collect Ore
+13
+collect rare items
+14
+Make Potion
+15
+Make Charm
+16
+dummy
+17
+create
+18
+Decompose
+20
+monster fist
+24
+Make Magicstone
+52
+Wizard flying wheel attack
+53
+Wizard flying sword attack
+54
+Monk shovel attack
+55
+Monk staff attack
+56
+Fairy flying wheel attack
+57
+Fairy flying pearl attack
+58
+Assassin chain simitar attack
+59
+Assassin dagger attack
+60
+Tamer bow attack
+61
+Tamer crossbow attack
+101
+testing--freeze
+102
+testing--invincibility
+103
+testing--invisible
+104
+testing--snow
+105
+testing--healing
+106
+testing--release from freeze
+107
+testing--revive yourself
+108
+testing--revive others
+109
+testing--teleport
+110
+testing--teleport attack
+111
+testing--shamam wand
+112
+testing--npc assistant
+113
+testing--npc self-destroy
+114
+testing--open treasure box
+115
+testing--group slow 
+116
+testing--distractive
+117
+testing--absorb enemy value
+118
+testing--decrease enemy value
+119
+testing--Eff parameter
+120
+testing--summon servant
+121
+testing--transfer to be servant
+130
+testing--improve fire strike
+131
+testing--improve heal
+132
+testing--charge forward
+201
+Fire Strike
+202
+Fire Barb
+203
+Fire Spiral
+204
+Fire Dragon
+205
+Fire Burst
+211
+Water Fling
+212
+Ice Fling
+213
+Water Barb
+214
+Tide Spout
+215
+Water Flowing
+221
+Ice Shield
+222
+Ice Curse
+223
+Inspiring Art
+224
+Pointing Faint
+225
+Tao Power
+226
+Earth Faint
+227
+Silence Spell
+228
+Sobering Spell
+231
+Improve Fire Strike
+232
+Improve Fire Barb
+233
+Improve Fire Spiral
+234
+Improve Fire Dragon
+235
+Improve Fire Burst
+236
+Improve Fire Damage
+237
+Improve CS Rate
+238
+Improve CS Damage
+241
+Fire Master
+242
+Fire Criticalness
+251
+Improve Water Fling
+252
+Improve Ice Fling
+253
+Improve Water Barb
+254
+Improve Tide Spout
+255
+Improve Water Flowing
+256
+Improve Water Damage
+257
+Improve CS Rate
+258
+Improve CS Damage
+261
+Water Recovery
+262
+Dragon Master
+271
+Improve Ice Shield
+272
+Improve Ice Curse
+273
+Improve Inspiring Art
+274
+Improve Pointing Faint
+275
+Improve Tao Power
+276
+Improve Earth Faint
+277
+Improve Silence Spell
+278
+Improve Sobering Spell
+301
+Thunder Faint
+302
+Lightning Slice
+303
+Sheen Slice
+304
+Lightning Chain
+305
+White Lotus
+306
+Golden Lotus
+307
+Blue Lotus
+308
+Red Lotus
+309
+Healing Spell
+310
+Cure Spell
+311
+Revive Spell
+312
+Leeching Needle
+313
+Antidote Needle
+314
+Sun Needle
+315
+Cloud Dimming
+316
+Cloud Balk
+317
+Purple Smoke
+318
+Purple Crystal
+319
+Purple Shield
+321
+Improve Thunder Faint
+322
+Improve Lightning Slice
+323
+Improve Sheen Slice
+324
+Improve Lightning Chain
+325
+Improve Lightning Damage
+326
+Improve CS Rate
+327
+Improve CS Damage
+331
+Improve White Lotus
+332
+Improve Golden Lotus
+333
+Improve Blue Lotus
+334
+Improve Red Lotus
+335
+Improve Buddha Damage
+336
+Improve CS Rate
+337
+Improve CS Damage
+341
+Improve Healing Spell
+342
+Improve Cure Spell
+343
+Improve Revive Spell
+344
+Improve Leeching Needle
+345
+Improve Antidote Needle
+346
+Improve Sun Needle
+347
+Improve Cloud Dimming
+348
+Improve Cloud Balk
+349
+Improve Purple Smoke
+350
+Improve Purple Crystal
+351
+Improve Purple Shield
+361
+Peace Power
+362
+Magic Sublime
+363
+Storm Power
+364
+Tenacity Shield
+401
+Giant Attack
+402
+Giant Burst
+403
+Giant Break
+404
+Giant Raid
+405
+Giant Halt
+411
+Fatal Probe
+412
+Fatal Bash
+413
+Fatal Crack
+414
+Fatal Burning
+415
+Fatal Sadness
+421
+Buddha Quake
+422
+Buddha Shield
+423
+Heart Lotus
+424
+Heart Fire
+425
+Robust Spell
+426
+Free Spell
+427
+Mercy
+428
+Sacrifice
+431
+Improve Giant Attack
+432
+Improve Giant Burst
+433
+Improve Giant Break
+434
+Improve Giant Raid
+435
+Improve Giant Halt
+436
+Improve Buddha Damage
+437
+Improve CS Rate
+438
+Improve CS Damage
+441
+Spring Tide
+442
+Buddha Criticalness
+451
+Improve Buddha Quake
+452
+Improve Buddha Shield
+453
+Improve Heart Lotus
+454
+Improve Heart Fire
+455
+Improve Robust Spell
+456
+Improve Free Spell
+457
+Improve Mercy
+458
+Improve Sacrifice
+461
+Improve Fatal Probe
+462
+Improve Fatal Bash
+463
+Improve Fatal Crack
+464
+Improve Fatal Burning
+465
+Improve Fatal Sadness
+466
+Improve Fire Damage
+467
+Improve CS Rate
+468
+Improve Block Rate
+471
+Tiger Guarding
+472
+Dragon Orbiting
+501
+Lightning Lash
+502
+Lash Faint
+503
+Double Lash
+504
+Thunder Slow
+505
+Lightning Sweeping
+511
+Poison Sting
+512
+Soul Lost
+513
+Rush Faint
+514
+Poison Bash
+515
+Poison Thorn
+521
+Swift Move
+522
+Shadowy Walk
+523
+Soul Rocking
+524
+Soul Shield
+525
+Puzzling Array
+526
+Elements Array
+527
+Dragon Cry
+528
+Roc Sing
+551
+Improve Lightning Lash
+552
+Improve Lash Faint
+553
+Improve Double Lash
+554
+Improve Thunder Slow
+555
+Improve Lightning Sweeping
+556
+Improve Lightning Damage
+557
+Improve CS Rate
+558
+Improve Dodge Rate
+559
+Continuous Blade
+560
+Sweeping All
+561
+Improve Poison Sting
+562
+Improve Soul Lost
+563
+Improve Rush Faint
+564
+Improve Poison Bash
+565
+Improve Poison Thorn
+566
+Improve Poison Damage
+567
+Improve CS Damage
+568
+Improve CS Rate
+569
+Improve Shadow Flow
+570
+Improve Ruin Strike
+571
+Improve Swift Move
+572
+Improve Shadowy Walk
+573
+Improve Soul Rocking
+574
+Improve Soul Shield
+575
+Improve Puzzling Array
+576
+Improve Elements Array
+577
+Improve Dragon Cry
+578
+Improve Roc Sing
+601
+Heavy Crack
+602
+Rapid Crack
+603
+Thorn Crack
+604
+Shadow Crack
+605
+Spiny Crack
+611
+Rapid Shoot
+612
+Snake Poison
+613
+Bear Hit
+614
+Power Shoot
+615
+Eagle Swoop
+621
+Heal Pet
+622
+Revive Pet
+623
+Wild Pet
+624
+Poison of Attack
+625
+Poison of Slow
+626
+Poison of Weakness
+627
+Brisk Wind
+628
+Stone Skin
+629
+Brutal Fight
+630
+Fire Trap
+631
+Freezing Trap
+651
+Improve Heavy Crack
+652
+Improve Rapid Crack
+653
+Improve Thorn Crack
+654
+Improve Shadow Crack
+655
+Improve Spiny Crack
+656
+Improve Water Damage
+657
+Improve CS Damage
+658
+Improve CS Rate
+659
+Squall
+660
+Fulmination
+661
+Improve Rapid Shoot
+662
+Improve Snake Poison
+663
+Improve Bear Hit
+664
+Improve Power Shoot
+665
+Improve Eagle Swoop
+666
+Improve Poison Damage
+667
+Improve CS Damage
+668
+Improve CS Rate
+669
+Dragon Soaring
+670
+Bright Mirror
+671
+Improve Heal Pet
+672
+Improve Revive Pet
+673
+Improve Wild Pet
+674
+Improve Poison of Attack
+675
+Improve Poison of Slow
+676
+Improve Poison of Weakness
+677
+Improve Brisk Wind
+678
+Improve Stone Skin
+679
+Improve Brutal Fight
+680
+Improve Fire Trap
+681
+Improve Freezing Trap
+1000
+testing--massman
+1001
+testing--tiger
+1002
+testing--massman (200000)
+1003
+testing--massman (1000000)
+1004
+testing--massman (5000000)
+1005
+testing--tiger (10000)
+1006
+testing--tiger (50000)
+1007
+testing--tiger (200000)
+1008
+testing--tiger (500000)
+1100
+Venom Belch
+1101
+Snake Head Attack
+1102
+Centipede Attack
+1103
+Ghost Fire Attack
+1104
+Poison Mushroom Attack
+1105
+Immortal Centipede Dig
+1106
+Immortal Centipede Circle
+1107
+Ghost Wind Tao Aureole
+1108
+Ghost Wind Tao Thunder Light
+1109
+The Eight Diagrams Master Skill
+1110
+Flame Tao Skill
+1111
+Iron Bell Tao Skill
+1112
+Snake Monster Fire Ball
+1113
+Snake Monster Poison Rain
+1114
+Blood Eat Soul Attack
+1115
+Muscle-man Wei Thunder Light
+1116
+Jin Guangding Flying Sword
+1117
+Loong Fei Flying Sword
+1118
+Lecher Dart
+1119
+Gangster Zhang's Blade Light
+1120
+Cortege Qin's Flying Sword
+1121
+Cortege Xue's Double Sword
+1122
+Callet Head Young Flying Sword
+1123
+Gemination Snake Attack
+1124
+Golden Silkworm Attack
+1125
+Golden Silkworm Skill
+1126
+Poison Fly Basic Attack
+1127
+Green Robe Master Flying Bomb
+1128
+Green Robe Master Poison Rain
+1129
+Monk Zhi Tong Iron Bell
+1130
+Monk Zhi Tong Bright Rain
+1131
+Fa Yuan Bright Rain
+1132
+Fa Yuan Fire Ball 
+1133
+Buddhist Monk Zhi Fei Flying Bomb
+1134
+Buddhist Monk Xiao Yue Attack Skill
+1135
+Buddhist Monk Xiao Yue Bright Rain
+1136
+Evil Tao He Skill
+1137
+Evil Tao Yu Taizhen Enwind 
+1138
+Evil Tao Yu Taizhen Group Flying Sword
+1139
+Black Ghost Axe Chop
+1140
+Block Ghost Eddy
+1143
+Force Attack
+1144
+Trace
+1145
+Frenzy
+1146
+Tiger Rush
+1147
+Hard Chop
+1150
+Crocodile Attack
+1151
+Crocodile Shock
+1152
+Black Stone Demon Shockwave
+1153
+Machine Gun Attack
+1154
+Iron Arm Shock
+1155
+Flag Rain
+1156
+Fire Shockwave
+1157
+Light Blade Attack
+1158
+Poison Rain of Fly Dragon
+1159
+Purple Gold Bowl
+1160
+Fire Cloud
+1161
+Fire Cloud Wave
+1162
+Vivid Light Rain
+1163
+War Ruin
+1164
+Body Split
+1165
+Glaring Light Shockwave
+1166
+Magic Searing
+1167
+Hypnosis
+1168
+Virulent Bee Wave
+1169
+Flame Incantation
+1170
+Evil Earthquake
+1171
+Worm Self-explosion
+1172
+Spawn Explosion
+1173
+Viper War Giant Rush
+1174
+Light Blade
+1175
+Cure Spell
+1176
+Black Dragon Wave
+1177
+Metamorphosis
+1178
+Sleep Wave
+1179
+Tornado
+1180
+Blaze Skull Rush
+1182
+Blaze Skull Eruptiveness
+1183
+Bloody Skill
+1184
+Mobs Madly Dancing
+1185
+Blaze Skull Fire Circle
+1186
+Ice Light Burst
+1187
+Cold Snap
+1188
+Tentacle Twist
+1189
+Fission Blast
+1190
+Sky Cruelty
+1191
+Land Cruelty
+1192
+Axe Crack (original)
+1193
+Axe Crack (weak)
+1194
+Poison Dragon Frenzy
+1195
+General Attack
+1196
+Tiger Rush
+1197
+Gunner Attack
+1198
+Ice Light Burst
+1199
+Cursed Zombie Slow
+1200
+Flame Incantation
+1201
+Evil Earthquake
+1202
+Metamorphosis
+1204
+Spider Shot
+1205
+Monkey Shot
+1206
+Octopus Shot
+1207
+Junior Cure Spell
+1208
+Senior Cure Spell
+1230
+Jet Arm Shot
+1231
+Jet Arm Quake
+1232
+Flying Poison Attack
+1233
+Soul Summon
+1234
+Lightning  Summon
+1235
+Lash of Ray
+1236
+Fire Chop
+1237
+Broken Chop
+1238
+Soul Destroy
+1239
+Plague Shockwave
+1240
+Shadow Shockwave
+1241
+Shadow Servant
+1242
+Base Cannon
+1243
+Spiny Dart
+1244
+Circling Dart
+1245
+Ghost Sound Burst
+1246
+Ghost Corpse Burst
+1247
+Poison Scorpion Tail
+1248
+Poison Frog
+1249
+Magma Burning
+1250
+Flame Burst
+1251
+Life Ray
+1252
+Mana Ray
+1253
+Power Explosion
+1254
+Spider Fire
+1255
+Hail Attack
+1256
+Pet Mass Attack
+1257
+World Boss Cat King Skill
+1258
+Goddess Forgiveness
+1265
+Purple Shield
+1266
+Thunder Faint
+1267
+Sheen Slice
+1268
+Healing Spell
+1269
+Rush Faint
+1270
+Poison Bash
+1271
+Dragon Cry
+1272
+Shadowy Walk
+1273
+Rapid Crack
+1274
+Heavy Crack
+1275
+Shadow Crack
+1276
+Fire Trap
+1277
+Earth Faint
+1278
+Sobering Spell
+1279
+Fire Barb
+1280
+Fire Dragon
+1281
+Buddha Quake
+1282
+Heart Lotus
+1283
+Giant Attack
+1284
+Giant Burst
+1285
+Bow Release
+1286
+Twin Wheel Peggy Group
+1287
+Halberd Shadow Xuan Group
+1288
+Sad Fire Shi Shock
+1289
+Deadwood Dragon Li Group
+1290
+Magic Bowl Zheng Group
+1291
+Cave Witch Single
+1292
+Huge Blade Bao Single
+1293
+Thunder Pearl Man Group
+1294
+Blade Master Sui Single
+1295
+Bloodthirsty Mummy Shou Single
+1296
+Seven Color Butterfly Group
+1297
+Butterfly Pupa Group
+1298
+Pick Pockets
+1299
+Ghost Birth (Group)
+1300
+Base
+1301
+Taoist Xindzi Single
+1302
+Taoist Xindzi Group
+1303
+Taoist Xindzi Single Faint
+1304
+Angel Warrior Tang Group Defense Reduce
+1305
+Angel Warrior Tang Single CS
+1306
+Angel Warrior Tang Group Speed Reduce
+1307
+Slow Down
+1308
+HP Infusion
+1309
+Green Robe Master Single
+1310
+Scorpion Deer Man Single
+1311
+Nerve Turning
+1312
+Blood Boomerang
+1314
+Broken Chop
+1315
+Cloud Crack
+4401
+Guard Light Cannon
+4402
+Guard Cleave
+4403
+Blood Ghost Single Attack
+4404
+Blood Ghost Group Attack
+20000
+Light AOE
+20001
+Water AOE
+20002
+Fire AOE
+20003
+Water AOE
+20004
+Buff HP
+20005
+Buff 2
+20006
+Buff EXP
+20007
+Flame Incantation (Fire)
+20008
+Soul Destroy (Light)
+20009
+Magic Searing (Poison)
+11304
+Taoist Xindzi Group
+11305
+Mobs Madly Dancing
+11306
+Flame Incantation
+11307
+Nerve Turning
+11308
+Poison AOE
+11309
+Heal
+11310
+Sky Cruelty
+11311
+Land Cruelty
+11312
+Fire
+11313
+Buddha
+26017
+Wizard Buff Skill
+26018
+Monk Buff Skill
+26019
+Assassin Buff Skill
+26020
+Fairy Buff Skill
+26021
+Tamer Buff Skill
+30201
+Fire Strike
+30202
+Fire Barb
+30203
+Fire Spiral
+30204
+Fire Dragon
+30205
+Fire Burst
+30411
+Fatal Probe
+30412
+Fatal Bash
+30413
+Fatal Crack
+30414
+Fatal Burning
+30415
+Fatal Sadness
+30305
+White Lotus
+30306
+Golden Lotus
+30307
+Blue Lotus
+30308
+Red Lotus
+30511
+Poison Sting
+30512
+Soul Lost
+30513
+Rush Faint
+30514
+Poison Bash
+30515
+Poison Thorn
+30611
+Rapid Shoot
+30612
+Snake Poison
+30613
+Bear Hit
+30614
+Power Shoot
+30615
+Eagle Swoop
+1343
+Fire Dragon
+1344
+Fairy Damage Absorb
+1345
+Dragon Cry
+1346
+Improve Dragon Cry
+1347
+Aoe
+1348
+Stun
+1349
+Coma
+1350
+Metamorphosis
+1351
+Soul Destroy
+1352
+Plague Shockwave
+1353
+Shadow Shockwave
+1354
+Shadow Servant
+1355
+Scorpion Deer Man Single
+1317
+Fire Spout
+1318
+Fire Meteor
+1319
+Pick Pockets
+1320
+Power Shadow
+1321
+Mana Ray
+26023
+Lightning Bolt
+26026
+Asura Strike
+26025
+Hadouken
+26024
+Shoryuken
+26022
+Super Heal
+1356
+Super Saiyan
+1361
+Fast (Speedy)
+1362
+HP Regen
+1394
+Increase Damage&HP
+1395
+Stone Skin & Brutal Fight
+1396
+Healing Spell
+1397
+Immunity
+1363
+Unknown
+1364
+Unknown
+1365
+Unknown
+1366
+Unknown
+1367
+Unknown
+1368
+Unknown
+1363
+Unknown
+1370
+Unknown
+1371
+Unknown
+1372
+Unknown
+1373
+Unknown
+1374
+Unknown
+1375
+Unknown
+1376
+Unknown
+1377
+Unknown
+1378
+Unknown
+1379
+Unknown
+1380
+Unknown
+1381
+Unknown
+1382
+Unknown
+1383
+Unknown
+1384
+Unknown
+1385
+Unknown
+1386
+Unknown
+1387
+Unknown
+1388
+Unknown
+1389
+Unknown
+1390
+Unknown
+1391
+Unknown
+1392
+Unknown
+1393
+Unknown
