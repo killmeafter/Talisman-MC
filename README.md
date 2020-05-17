@@ -30,4 +30,4 @@ Talisman Mini Cheat
 * If You Want To Get High HP/DMG, Use Skills From 1000 To 1008
 * Other Useful Skills From 20004 To 20006
 
-# Warning, You Might Break Your Damage By Using Some Skills
+## Warning, You Might Break Your Damage By Using Some Skills
