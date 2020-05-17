@@ -1,5 +1,4 @@
-# Talsiamn-MC
-Talisman Mini Cheat
+# Talisman Mini Cheat
 
 # How To Install
 * Download ZIP File
