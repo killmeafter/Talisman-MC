@@ -23,7 +23,7 @@ Talisman Mini Cheat
 * Also Skill Button Will Appear With Its Icon
 * You Can Drag And Drop Anywhere That Icon To Use
 * On Right Side You See Other Features Such As Combine
-* Some Of Them Won't Work, They Need Additional Code Modification
+* Some Of Them May Not Work, They Need Additional Code Modification
 
 # Additional Infos
 * You Wont Get Banned By This, Unless You Use Paranormal Skills Near GM. Just Go And Farm In Caves Maybe
