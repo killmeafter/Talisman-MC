@@ -26,7 +26,7 @@
 
 # Additional Infos
 * You Wont Get Banned By This, Unless You Use Paranormal Skills Near GM. Just Go And Farm In Caves Maybe
-* If You Want To Get High HP/DMG, Use Skills From 1000 To 1008 (PTO)
-* Other Useful Skills From 20004 To 20006 (PTO)
+* If You Want To Get High HP/DMG, Use Skills From 1000 To 1008 (PTO) [FIXED IN PTO]
+* Other Useful Skills From 20004 To 20006 (PTO) [FIXED IN PTO]
 
 ## Warning, You Might Break Your Damage By Using Some Skills
