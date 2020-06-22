@@ -1,5 +1,159 @@
 <?xml version="1.0" encoding="UTF-8"?><UiRichText> 
-	<Line>		<Items> 			<br/>				<Item type="TEXT" font="title" fontsize="17" text="Auction" hlink="String:auction:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Identify" font="title" fontsize="17" color="#ffff7733" hlink="String:identify:NA?NA=0" />			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Combine" font="title" fontsize="17" color="#ffff7733" hlink="String:smithing:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Soul Infusion" font="title" fontsize="17" color="#ffff7733" hlink="String:enchant:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Mail" font="title" fontsize="17" color="#ffff7733" hlink="String:mail:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Guild War" font="title" fontsize="17" color="#ffff7733" hlink="String:guildwar:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Set Up guild" font="title" fontsize="17" color="#ffff7733" hlink="String:guild:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Guild Warehouse" font="title" fontsize="17" color="#ffff7733" hlink="String:guildbank:NA?NA=0" /> 			<br/>		</Items> 	</Line>			<Line>		<Items> 			<br/>				<Item type="TEXT" text="Leave Guild Domain" font="title" fontsize="17" color="#ffff7733" hlink="String:guildterrleave:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Get Guild Token" font="title" fontsize="17" color="#ffff7733" hlink="String:guildterrgetreturn:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="War" font="title" fontsize="17" color="#ffff7733" hlink="String:war:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Register Item" font="title" fontsize="17" color="#ffff7733" hlink="String:registerequip:NA?NA=0" /> 			<br/>		</Items> 	</Line>	<Line>		<Items> 			<br/>				<Item type="TEXT" text="RTL" font="title" fontsize="17" color="#ffff7733" hlink="String:rtl:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Graduate" font="title" fontsize="17" color="#ffff7733" hlink="String:graduate:NA?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Set WH Password" font="title" fontsize="17" color="#ffff7733" hlink="String:bank:pwd?pwd=set" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Smith8" font="title" fontsize="17" color="#ffff7733" hlink="String:local:smith8?NA=0" /> 			<br/>		</Items> 	</Line>			<Line>		<Items> 			<br/>				<Item type="TEXT" text="Signature" font="title" fontsize="17" color="#ffff7733" hlink="String:local:sign?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Unsignature" font="title" fontsize="17" color="#ffff7733" hlink="String:local:unsign?NA=0" /> 			<br/>		</Items> 	</Line>		<Line>		<Items> 			<br/>				<Item type="TEXT" text="Bank" font="title" fontsize="17" color="#ffff7733" hlink="String:bank:show" /> 			<br/>		</Items> 	</Line>	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" font="title" fontsize="17" text="Auction" hlink="String:auction:NA?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Identify" font="title" fontsize="17" color="#ffff7733" hlink="String:identify:NA?NA=0" />
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Combine" font="Success" fontsize="17" color="#ffff7733" hlink="String:smithing:100%?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Soul Infusion" font="title" fontsize="17" color="#ffff7733" hlink="String:enchant:NA?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Mail" font="title" fontsize="17" color="#ffff7733" hlink="String:mail:Grade 3 Tenacious Diamond Lv 9?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Guild War" font="title" fontsize="17" color="#ffff7733" hlink="String:guildwar:NA?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Set Up guild" font="title" fontsize="17" color="#ffff7733" hlink="String:guild:NA?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Guild Warehouse" font="title" fontsize="17" color="#ffff7733" hlink="String:guildbank:NA?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Leave Guild Domain" font="title" fontsize="17" color="#ffff7733" hlink="String:guildterrleave:NA?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Get Guild Token" font="title" fontsize="17" color="#ffff7733" hlink="String:guildterrgetreturn:NA?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="War" font="9999" fontsize="17" color="#ffff7733" hlink="String:war:NA?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Register Item" font="title" fontsize="17" color="#ffff7733" hlink="String:registerequip:NA?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+
+
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="RTL" font="title" fontsize="17" color="#ffff7733" hlink="String:rtl:NA?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Graduate" font="title" fontsize="17" color="#ffff7733" hlink="String:graduate:NA?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Set WH Password" font="title" fontsize="17" color="#ffff7733" hlink="String:bank:pwd?pwd=set" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Smith8" font="title" fontsize="17" color="#ffff7733" hlink="String:local:smith8?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Signature" font="title" fontsize="17" color="#ffff7733" hlink="String:local:sign?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Unsignature" font="title" fontsize="17" color="#ffff7733" hlink="String:local:unsign?NA=0" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
+	<Line>
+		<Items> 
+			<br/>
+				<Item type="TEXT" text="Bank" font="title" fontsize="17" color="#ffff7733" hlink="String:bank:show" /> 
+			<br/>
+		</Items> 
+	</Line>
+	
 	<Line>
 		<Items> 
 		</Items> 
@@ -258,4 +412,5 @@
 			<Item type="TEXT" text="Leave Cave 35" hlink="String:RequestLeaveEctype:$L:talk_leave_dv$?id=35" underlined="true" color="#ff00aadd" />
 		</Items> 
 	</Line>
-	</UiRichText>
+	
+</UiRichText>
